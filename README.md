@@ -1,5 +1,5 @@
 ### Hi there! I'm Daniel. 👋
-- 🔭 I’m a Android Developer at CWI
+- 🔭 I’m an Android Developer at CWI
 - 🌱 I’m currently learning/working whit **Kotlin**
 -------
 
