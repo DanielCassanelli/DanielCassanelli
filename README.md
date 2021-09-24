@@ -7,7 +7,7 @@
 <!--START_SECTION:waka-->
 ```text
 Android                         ████████████████████▒░░░░░░░░░   66.00 % 
-Spring Boot                     ██████████▒░░░░░░░░░░░░░░░░░░░░   33.44 % 
+Spring Boot                     ██████████▒░░░░░░░░░░░░░░░░░░░   33.44 % 
 Kotlin Multiplatform Mobile     ██▒░░░░░░░░░░░░░░░░░░░░░░░░░░░   10.78 % 
 ```
 <!--END_SECTION:waka-->
