@@ -1,6 +1,6 @@
 ### Hi there! I'm Daniel. 👋
 - 🔭 I’m an Android Developer
-- 🌱 I’m currently learning/working whit **Kotlin**
+- 🌱 I’m currently learning/working with **Kotlin**
 -------
 
 📊 ** Main Goals **
